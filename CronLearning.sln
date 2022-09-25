@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CronLearning", "CronLearning.csproj", "{23E60B9C-E2C1-4237-A508-BF8CD3EE9705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E60B9C-E2C1-4237-A508-BF8CD3EE9705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E60B9C-E2C1-4237-A508-BF8CD3EE9705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E60B9C-E2C1-4237-A508-BF8CD3EE9705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E60B9C-E2C1-4237-A508-BF8CD3EE9705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA102DB-8A74-448A-B1A3-1E16DC831745}
+	EndGlobalSection
+EndGlobal
